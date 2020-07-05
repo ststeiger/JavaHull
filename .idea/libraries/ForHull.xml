@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="ForHull" type="repository">
+    <properties maven-id="com.vividsolutions:jts:1.13" />
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/lib/jts-1.13.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.ideaLibSources/jts-1.13-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
